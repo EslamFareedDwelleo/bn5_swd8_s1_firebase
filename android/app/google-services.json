@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949246231910",
+    "project_id": "bns5-swd8-s1",
+    "storage_bucket": "bns5-swd8-s1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949246231910:android:d8ecc961165d7cf6e574a7",
+        "android_client_info": {
+          "package_name": "com.example.bn5_swd8_s1_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8K0q1LWQR4pjd7qwMJYd4lR_OkGuGJ2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

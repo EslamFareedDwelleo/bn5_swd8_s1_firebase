@@ -1,0 +1,11 @@
+part of 'login_cubit.dart';
+
+@immutable
+sealed class LoginState {}
+
+final class LoginInitial extends LoginState {}
+
+
+final class LoadingLoginState extends LoginState {}
+final class SuccessLoginState extends LoginState {}
+final class FailureLoginState extends LoginState {}
